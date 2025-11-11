@@ -1,0 +1,161 @@
+body {
+    margin: 0; 
+    background-color: #F4F6F5;
+}
+
+.catalog {
+    margin-top: 70px;
+    margin-right: 165px;
+    margin-left: 165px;
+    margin-bottom: 165px;     
+    width: 1110px;
+    height: 1564px;
+}
+
+.catalog_line {
+    display: flex;
+    align-items: center; 
+}    
+
+
+.catalog_text {
+    font-family: "Raleway", sans-serif;
+    font-size: 40;
+    font-weight:500;
+    width: 677px;
+    height: 44px;
+    color: #2C2D35;
+}
+
+.nav {
+    width: 433px;
+    height: 43px;
+}
+
+.nav_item_franc {
+    color: #2C2D35;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-weight:500;
+
+    width: 135px;
+    height: 43px;
+    background-color: #D4E8D9;
+    border: 1px solid #D4E8D9;
+    border-radius: 20px;
+    margin-right: 32px;
+    padding: 10px 20px
+}
+
+.nav_item_german {
+    color: #2C2D35;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-weight:500;
+
+    width: 135px;
+    height: 43px;
+    background-color: #D4E8D9;
+    border: 1px solid #D4E8D9;
+    border-radius: 20px;
+    margin-right: 32px;
+    padding: 10px 20px
+}
+
+.nav_item_Engl {
+    color: #2C2D35;
+    text-decoration: none;
+    font-family: "Raleway", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-weight:500;
+
+    width: 135px;
+    height: 43px;
+    background-color: #D4E8D9;
+    border: 1px solid #D4E8D9;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+
+.f3_cards {
+    display: flex;
+    margin-top: 30px;
+}
+
+.frans_card {
+    margin-right: 30px;  
+    background-color: #E1EDE6;  
+    padding: 20px 20px 20px 20px;
+}
+
+.card_signa {
+    color: #86928B;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: "Raleway", sans-serif;
+    font-size: 18;
+    font-weight:500;
+    width: 310px;
+    height: 21px;
+}
+
+.card_title {
+    color: #2C2D35;
+    margin-bottom: 8px;
+    font-family: "Raleway", sans-serif;
+    font-size: 30;
+    font-weight:500;
+    display: flex;
+    width: 310px;
+    height: 35px;
+}
+
+.card_desc {
+    color: #2C2D35;
+    margin-bottom: 30px;
+    font-family: "Raleway", sans-serif;
+    font-size: 18;
+    font-weight:500;
+    width: 310px;
+    height: 21px;
+}
+
+.card_price {
+    color: #598D66;
+    margin-bottom: 20px;
+    font-family: "Raleway", sans-serif;
+    font-size: 24;
+    font-weight:500;
+    width: 310px;
+    height: 28px;
+}
+
+.card_bat {
+    color: #598D66;
+    margin-bottom: 10px;
+    font-family: "Raleway", sans-serif;
+    font-size: 20;
+    font-weight:500;
+    border: 1px solid #598D66;
+    position: relative;
+    width: 97px;
+    height: 23px;
+    padding: 21px 106px;
+}
+
+.card_france_image {
+    width: 310px;
+    height: 422px;
+}
+
+.catalog_frans {
+    margin-top: 30;
+}
